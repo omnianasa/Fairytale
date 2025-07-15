@@ -11,7 +11,7 @@ Below are four of the famous paintings used as style references during experimen
 
 | Style Image 1 | Style Image 2 | Style Image 3 | Style Image 4 |
 |---------------|---------------|---------------|---------------|
-| ![Style 1](samplesForTest/image_MemPersistence.jpg) | ![Style 2](samplesForTest/image_rain_rustle.jpg) | ![Style 3](samplesForTest/image_starry.jpg) | ![Style 4](samplesForTest/image_waterLILI.jpg) |
+| ![Style 1](samplesForTest/MemPersistence.jpg) | ![Style 2](samplesForTest/rainRustle.jpg) | ![Style 3](samplesForTest/Starry.jpg) | ![Style 4](samplesForTest/waterLILI.jpg) |
 
 ---
 
@@ -49,6 +49,8 @@ After processing the frames, the stylized images were combined back into a video
 
 **Output video preview:**  
 ![Final Video](stylized_output.mp4)  
+
+![Watch on youtube](https://youtube.com/shorts/A7FXdvtBR6k?feature=share)
 
 ---
 
