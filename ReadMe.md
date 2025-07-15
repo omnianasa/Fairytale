@@ -50,7 +50,7 @@ After processing the frames, the stylized images were combined back into a video
 **Output video preview:**  
 ![Final Video](stylized_output.mp4)  
 
-![Watch on youtube](https://youtube.com/shorts/A7FXdvtBR6k?feature=share)
+[![Watch on YouTube](https://img.youtube.com/vi/A7FXdvtBR6k/0.jpg)](https://youtube.com/shorts/A7FXdvtBR6k?feature=share)
 
 ---
 
