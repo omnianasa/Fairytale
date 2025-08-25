@@ -48,9 +48,8 @@ Each of the 26 frames was stylized using the selected style image. Below is a pr
 After processing the frames, the stylized images were combined back into a video:
 
 **Output video preview:**  
-![Final Video](stylized_output.mp4)  
 
-[![Watch on YouTube](https://img.youtube.com/vi/A7FXdvtBR6k/0.jpg)](https://youtube.com/shorts/A7FXdvtBR6k?feature=share)
+![gif](stylized_output.gif)
 
 ---
 
