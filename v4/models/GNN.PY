@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch_geometric.nn import GATConv
 
-class GNN_Enhanced(nn.Module):
+class GNN(nn.Module):
     """
     Graph Neural Network for Islamic Art feature extraction.
     Features:
@@ -13,7 +13,7 @@ class GNN_Enhanced(nn.Module):
     """
 
     def __init__(self, input_dim: int, hidden_dim: int = 128, output_dim: int = 64, heads: int = 4):
-        super(GNN_Enhanced, self).__init__()
+        super(GNN, self).__init__()
         # Stage 1: Graph Attention Conv
         self.gat1 = GATConv(input_dim, hidden_dim, heads=heads, concat=True)
         # Stage 2: Graph Attention Conv
